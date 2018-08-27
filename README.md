@@ -1,3 +1,3 @@
 # javaArchive
 
-Add Java programs written for class.
+Archive of Java programs written using Eclipse IDE from a semester-long class.
